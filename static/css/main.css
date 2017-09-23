@@ -2,5 +2,9 @@
 
 /* CUSTOM CSS */
 
+.posts .excerpt {
+	line-height: 1.5;
+}
+
 /* see #6 */
 .highlighttable td,th{padding:0;border:0;}td.code{width:95%;}
